@@ -1,3 +1,3 @@
 # Ambig
 Umfrage über Rollenzuweisung, Agens in ambigen Sätzen
-MuttersprachlerInnen vs nicht-muttersprachlerInnen
+-MuttersprachlerInnen vs nicht-muttersprachlerInnen
